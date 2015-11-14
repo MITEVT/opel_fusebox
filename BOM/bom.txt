@@ -1,0 +1,12 @@
+Relays
+
+Relay: http://www.digikey.com/product-detail/en/1432786-1/PB681-ND/807758
+Relay Socket: http://www.digikey.com/product-detail/en/VCF4-1001/PB316-ND/254533
+
+Fuses
+
+Fuse for windshield wipers (slow blow):
+Fuse for other LEDs (break lights, signal lights etc): http://www.mouser.com/ProductDetail/Littelfuse/0287010PXCN/?qs=sGAEpiMZZMsh2y49K8ANre2oST0CvVKyEVfsdH5LJ1A%3d
+Fuse for LED headlights (fast blow): http://www.mouser.com/ProductDetail/Littelfuse/0287020PXCN/?qs=sGAEpiMZZMsh2y49K8ANre2oST0CvVKyDuZdoWTBbP0%3d
+Fuse holder: http://www.digikey.com/product-detail/en/178.6165.0002/WK6265-ND/653477
+Fuse holder for windshield wiper motor: http://www.mouser.com/ProductDetail/Littelfuse/0287020PXCN/?qs=sGAEpiMZZMsh2y49K8ANre2oST0CvVKyDuZdoWTBbP0%3d
